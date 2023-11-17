@@ -25,7 +25,7 @@ To use this repository with VSCode, clone this repo and then add the `/path/to/k
 
 ## Troubleshooting
 - It's not working, what do I do?
-  - DO NOT put `/path/to/kivy-stubs-pycharm/kivy` as this will not work!
+  - DO NOT put `/path/to/kivy-stubs-pycharm/kivy` in `settings.json` as this will not work!
   - This was tested using PyLance and MyPy. Try those if you're having trouble.
  
 ## Additional PyCharm Stubs
